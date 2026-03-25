@@ -24,7 +24,7 @@ and performance on Hyperliquid, and propose actionable trading strategies.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/primetrade-trader-sentiment-analysis.git
+git clone https://github.com/kaviyarajasekaran/primetrade-trader-sentiment-analysis
 cd primetrade-trader-sentiment-analysis
 ```
 
@@ -40,7 +40,7 @@ Place these two files in the root folder (same level as the notebook):
 
 ### 4. Run the notebook
 ```bash
-jupyter notebook analysis.ipynb
+colab notebook analysis.ipynb
 ```
 Then: **Kernel → Restart & Run All**
 
